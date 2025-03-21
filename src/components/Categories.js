@@ -1,6 +1,6 @@
 const abc = [
   { id: 0, name: "Action and Adventure" },
-  { id: 1, name: "Anime" },
+  { id: 1, name: "Chinese Drama" },
   { id: 2, name: "Comedy" },
   { id: 3, name: "Documentary" },
   { id: 4, name: "Drama" },
