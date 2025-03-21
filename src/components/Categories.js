@@ -9,7 +9,7 @@ const abc = [
   { id: 7, name: "International" },
   { id: 8, name: "Disney" },
   { id: 9, name: "Music videos" },
-  { id: 10, name: "Mystery and thrillers" },
+  { id: 10, name: "Mystery" },
   { id: 11, name: "Romance" },
 ];
 
